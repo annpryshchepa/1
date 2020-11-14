@@ -1,3 +1,3 @@
 # 1
 
-Condition: the user inputns only 1-digit number
+Condition: par and stroke are numers greater than 0
